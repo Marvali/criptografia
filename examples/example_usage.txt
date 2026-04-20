@@ -1,0 +1,15 @@
+Ejemplo rápido (modo consola)
+
+1) Ejecutar:
+   python run.py
+
+2) Elegir opción 1 (cifrar) y escribir:
+   Hola profesor, este es un ejemplo.
+
+3) Copiar la salida Base64 y volver a ejecutar:
+   python run.py
+
+4) Elegir opción 2 (descifrar) y pegar el contenido cifrado.
+
+5) Resultado esperado:
+   Hola profesor, este es un ejemplo.
